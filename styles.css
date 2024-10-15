@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #121212
+}
+
+.italic {
+    font-style: italic;
+    width: 380px;
+    text-align: center;
+}
+
+#stadium-img {
+    width: 380px;
+    border: 3px solid black;
+}
+
+.email {
+    width: 180px;
+    border: 3px solid black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: small;
+}
+
+.btn {
+    width: 190px;
+    border: none;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: small;
+    background: #121212;
+    color: white;
+    margin-top: 10px;
+}
